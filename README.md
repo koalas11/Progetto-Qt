@@ -5,6 +5,7 @@ per la gestione dei dipinti presenti nella Galleria degli Uffizi.
 Qt: Qt Creator 4.15.0 <br>
 Based on Qt 5.15.2 (GCC 7.3.1 20180303 (Red Hat 7.3.1-5), 64 bit) <br>
 
+# Screenshot
 ![alt text](https://github.com/koalas11/Progetto-Qt/blob/main/Screenshots/startScreen.PNG)
 ![alt text](https://github.com/koalas11/Progetto-Qt/blob/main/Screenshots/FilteredScreen.PNG)
 
