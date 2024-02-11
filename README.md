@@ -1,6 +1,9 @@
 # Introduzione
 Il progetto richiede la progettazione e realizzazione di un’applicazione con GUI
 per la gestione dei dipinti presenti nella Galleria degli Uffizi.
+# Strumenti utilizzati
+Qt: Qt Creator 4.15.0 <br>
+Based on Qt 5.15.2 (GCC 7.3.1 20180303 (Red Hat 7.3.1-5), 64 bit) 
 ## Scelte implementative e di design importanti
 Uno dei problemi che ho riscontrato è la gestione delle date da inserire nel grafico essendo formattate in modo diverso e avendo troppi dati distinti, 
 per questo ho decido di decidere una formattazione unica per le date prima di inserirle nel grafico cercando il primo numero presente nel campo data e 
